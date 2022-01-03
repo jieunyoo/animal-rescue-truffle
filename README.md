@@ -2,7 +2,7 @@
 
 ## Written using truffle
 
-To compile, ```truffle complile```
+To compile, ```truffle compile```
 
 To migrate, ```truffle migrate```
 
