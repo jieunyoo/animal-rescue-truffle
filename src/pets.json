@@ -1,0 +1,69 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/goat.jpg",
+    "age": 3,
+    "breed": "Goat",
+    "location": "Lisco, Alabama"
+  },
+  {
+    "id": 1,
+    "name": "Cutie",
+    "picture": "images/koala.jpg",
+    "age": 5,
+    "breed": "Koala",
+    "location": "Omaha, New Braska"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/horse.jpg",
+    "age": 12,
+    "breed": "Horse",
+    "location": "Freeburn, Idaho"
+  },
+  {
+    "id": 3,
+    "name": "Spot",
+    "picture": "images/shihTzu.jpg",
+    "age": 4,
+    "breed": "Shih Tzu",
+    "location": "Camas, Pennsylvania"
+  },
+  {
+
+    "id": 4,
+    "name": "Coleman",
+    "picture": "images/dog.jpg",
+    "age": 1,
+    "breed": "Labrador Retriever",
+    "location": "Jacksonwald, Palau"
+
+  },
+  {
+    "id": 5,
+    "name": "Elvia",
+    "picture": "images/cat.jpg",
+    "age": 3,
+    "breed": "Cat",
+    "location": "Chicago, Illinois"
+  },
+  {
+    "id": 6,
+    "name": "Latisha",
+    "picture": "images/owl.jpg",
+    "age": 9,
+    "breed": "Owl",
+    "location": "Soudan, Louisiana"
+  },
+  {
+
+    "id": 7,
+    "name": "Oreo",
+    "picture": "images/husky.jpg",
+    "age": 2,
+    "breed": "Husky",
+    "location": "Gerber, South Dakota"
+  }
+]
